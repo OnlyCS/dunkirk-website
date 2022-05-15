@@ -1,5 +1,5 @@
 {
-  "name": "inertia-client",
+  "name": "dunkirk-website",
   "private": false,
   "scripts": {
     "dev": "next dev",

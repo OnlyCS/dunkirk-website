@@ -1,19 +1,19 @@
-# Inertia Client
+# Dunkirk Website
 
-The Next.js and NextUI-based frontend for Inertia.
+The Next.js and NextUI-based website on the events of Dunkirk.
 
 ## About
 
-This is the future frontend for Inertia which will be used in the next update.
+Dunkirk website
 
-- Maintainers: [TheAlphaReturns](https://github.com/TheAlphaReturns) and [Doomcow500](https://github.com/Doomcow500)
+- Maintainers: [TheAlphaReturns](https://github.com/TheAlphaReturns)
 - Status: Stable
 
 ## Website
 
 You can currently find this project on
 
-- https://inertia-ub.vercel.app
+- https://thealphareturns.github.io/dunkirk-website
 
 ## NextUI?
 
