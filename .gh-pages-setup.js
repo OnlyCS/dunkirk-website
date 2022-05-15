@@ -1,8 +1,8 @@
 const fs = require('fs');
-const fileName = './src/config/config.json';
+const fileName = './src/config.json';
 const file = require(fileName);
     
-file.prefix = "/inertia-client";
+file.prefix = "/dunkirk-website";
     
 fs.writeFile(fileName, JSON.stringify(file), function writeJSON(err) {
 	if (err) return console.log(err);
