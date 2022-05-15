@@ -1,34 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Inertia Client
 
-## Getting Started
+The Next.js and NextUI-based frontend for Inertia.
 
-First, run the development server:
+## About
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+This is the future frontend for Inertia which will be used in the next update.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Maintainers: [TheAlphaReturns](https://github.com/TheAlphaReturns) and [Doomcow500](https://github.com/Doomcow500)
+- Status: Stable
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Website
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+You can currently find this project on
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- https://inertia-ub.vercel.app
 
-## Learn More
+## NextUI?
 
-To learn more about Next.js, take a look at the following resources:
+NextUI is a react component library created by [jrgarciadev](https://github.com/jrgarciadev).
+Learn more at [their Github page](https://github.com/nextui-org/nextui) or their [website](https://nextui.org)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Use `eslint` to format and correct the code. Please do not edit any of the formatting checks.
