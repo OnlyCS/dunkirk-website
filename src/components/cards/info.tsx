@@ -4,12 +4,12 @@ export function Info() {
 	return Builder(
 		'Information About the Port at Dunkirk',
 		`
-			The port of Dunkirk is located at the northernmost point of France. On the east, there is the Strait of Dover, the shortest
-			path into British territory from there, which will be the place where the evacuating soldiers are trying to get to. Keep in mind,
-			the Strait of Dover can be 20 miles wide, so it isn't very easy to swim over.
+			The port of Dunkirk is located at the northernmost point of France. The Strait of Dover is on the East, 
+			which is the shortest path into British territory. Keep in mind,
+			the Strait of Dover can be 20 miles wide, so it isn't possible to swim over.
 
-			The allies tactical standpoint was bad too, German soldiers were almost surrounding the port, but thankfully didn't launch
-			an attack. They feared the Allied had something up their sleeves, and were ready and prepared for an attack. They were dead
+			The allies' tactical standpoint was bad. German soldiers surrounded the port, but thankfully didn't launch
+			an attack. They feared the Allies were ready and prepared for an attack. They were
 			wrong, and this tactical blunder was, what many historians argue, cost them the war.
 		`,
 		[
