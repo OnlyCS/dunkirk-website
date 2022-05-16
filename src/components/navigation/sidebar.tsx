@@ -21,7 +21,7 @@ export function Sidebar() {
 		return (
 			<nextUI.Col>
 				<nextUI.Text css={{ color: '#7a7b7c', marginLeft: '1.5em', userSelect: 'none' }} size={'1.5em'}>
-					• &nbsp; &nbsp; <nextUI.Link css={{ color: '#7a7b7c' }} href={url} underline>{name}</nextUI.Link>
+					• &nbsp; &nbsp; <nextUI.Link css={{ color: '#7a7b7c' }} href={`${config.prefix}${url}`} underline>{name}</nextUI.Link>
 				</nextUI.Text>
 			</nextUI.Col>
 		);

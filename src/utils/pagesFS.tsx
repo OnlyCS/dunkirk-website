@@ -57,8 +57,13 @@ export function pagesFS() {
 		},
 		{
 			type: 'page',
-			title: 'Part 4: What If...?',
-			url: '/whatif'
+			title: 'Part 4: The Aftermath',
+			url: '/aftermath'
+		},
+		{
+			type: 'page',
+			title: 'Part 5: Notes and Comments',
+			url: '/notes'
 		}
 	];
 
