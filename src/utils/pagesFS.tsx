@@ -64,6 +64,11 @@ export function pagesFS() {
 			type: 'page',
 			title: 'Part 5: Notes and Comments',
 			url: '/notes'
+		},
+		{
+			type: 'page',
+			title: 'One more thing',
+			url: 'https://www.youtube.com/watch?v=-AXetJvTfU0'
 		}
 	];
 

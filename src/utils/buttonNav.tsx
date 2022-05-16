@@ -31,7 +31,7 @@ export function ButtonNav() {
 							Back
 						</nextUI.Button>
 						<nextUI.Button css={{ width: '49%' }} size='lg' {...nextPage != 'disable' ? { onClick: goToNextPage } : { disabled: true }}>
-							Next
+							Next {nextPage.startsWith('https://') ? '(One more thing)' : ''}
 						</nextUI.Button>
 					</>
 				) : (
