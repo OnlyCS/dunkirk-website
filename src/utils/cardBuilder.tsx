@@ -13,7 +13,7 @@ export function Builder(title: string, text: string, images: { src: string, titl
 
 			<nextUI.Card.Body css={{ display: 'inline-block' }}>
 				<div style={{ display: 'inline-block', width: (images.length > 0) ? '68%' : 'auto', verticalAlign: 'top' }}>
-					<nextUI.Text>
+					<nextUI.Text size='1.225rem'>
 						{ReactHtmlParser(
 							text
 								.replace(/\n\n/g, '<br /><br />')
